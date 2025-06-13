@@ -6,11 +6,12 @@ This is a full-stack web application built for Mounarch Tech Solutions & Systems
 
 📂 Project Structure:  
    
-   project-root/
+  project-root/
 │
 ├── client/          # React frontend
 ├── server/          # Node.js + Express backend
 └── README.md        # This file
+
  
 
 
