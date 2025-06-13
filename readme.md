@@ -1,4 +1,4 @@
-This is a full-stack web application built for Mounarch Tech Solutions & Systems Pvt. Ltd. as part of a technical assessment. It includes:
+This is a full-stack web application built for Monarch Tech Solutions & Systems Pvt. Ltd. as part of a technical assessment. It includes:
 
 🖥️ Frontend: React.js (with responsive UI, product grid, cart, and product detail page)
 
